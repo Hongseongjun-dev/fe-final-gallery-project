@@ -1,5 +1,8 @@
-![심금](https://github.com/Hongseongjun-dev/fe-final-gallery-project/assets/129278491/f80c900e-ec7d-4fa9-bd62-72fb61da50a2)
+<h1> 시현 동영상 </h1>
+https://github.com/Hongseongjun-dev/fe-final-gallery-project/assets/129278491/d4c6756b-1329-4c69-8477-330b3497f437
+</br>
 
+<h1>느낀 점</h1>
 기초가 정말 중요하다는 것을 다시한번 느낄 수 있었던 과제였다.
 이번 과제는 현재 수준에 어려움을 많이 느껴 도움이 많이 필요하였지만, 이를 계기로 기초부터 다시 다져야겠다는 생각을 했다.
 정말 좋은 수업들을 한분 한분 훌륭한 운영진에게 배울 수 있어 좋은 경험이었고, 앞으로 스스로 연습하고 발전하는 것이 무엇보다 중요하겠다는 생각을 했습니다.
